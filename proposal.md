@@ -23,7 +23,7 @@ I think we can use the first two items above to address the third, by making a b
 The basic idea is to have gun owners vouch for other gun owners’ fitness to handle and use guns, and to incentivize those people to evaluate each other carefully by forcing them to have skin in the game. In this way, we can build up and maintain networks of licensed shooters whose experience of gun ownership is relatively frictionless—no arbitrary rules about barrel length or whether an item is a “stock” or an “arm brace”, and no extra paperwork or waiting periods—while denying access to firearms to individuals who can’t join such a network and remain a member in good standing.
 
 ## Licensing the “who”
-The basic shooter control framework is that the government licenses “shooter networks”, and shooter networks license individual shooters. I say “shooter” here, because I’m not talking about gun ownership—I’m talking about who can legally touch and handle a firearm.
+The basic shooter control framework is that the government licenses “shooter networks”, and shooter networks license individual shooters. (Yep, this is modeled on how the web handles SSL certificates.) I say “shooter” here, because I’m not talking about gun ownership—I’m talking about who can legally touch and handle a firearm.
 
 Under a shooter control regime, the government doesn’t know about or care what kinds of guns you own; it only cares about whether or not you’re a licensed shooter, i.e. you’re licensed to pick up a gun. And under shooter control, your fellow network members care very much that you’re not convicted of a gun crime, because that would put their gun rights at risk.
 
