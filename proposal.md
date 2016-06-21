@@ -2,7 +2,7 @@
 
 I think a realistic shooter control proposal should have at least the following characteristics:
 
-1. A focus on the *who*, and not the “what”. 
+1. A focus on the *who*, and not the “what”.
 2. Genuine *compromise*: both sides give up some things.
 3. *Simplicity* and bright lines. The more complex a system is, the easier it is for bad actors to game it.
 4. Consensus from both sides that, thought they hate some aspects of it, it’s *equal to or better* than what we have now.
@@ -12,7 +12,7 @@ This last bit is particularly important. We can’t hope to solve every scenario
 ## Starting points
 I want to begin with three generalizations about gun owners, and then use them as the basis of a compromise.
 
-Modern gun culture is a gear culture, and its members like hacking and tweaking and modding their firearms. Because they’re this way, they chafe against feature-based firearm restrictions, like the federal restrictions on short-barreled rifles or suppressors, or state-specific restrictions on things like barrels shrouds or vertical fore-grips. 
+Modern gun culture is a gear culture, and its members like hacking and tweaking and modding their firearms. Because they’re this way, they chafe against feature-based firearm restrictions, like the federal restrictions on short-barreled rifles or suppressors, or state-specific restrictions on things like barrels shrouds or vertical fore-grips.
 
 Gun owners also largely see themselves as law-abiders who are clearly never going to do anyone deliberate harm. “Why should I be burdened by these arbitrary feature-based restrictions that are easily circumvented by criminals,” they ask?
 
@@ -30,7 +30,7 @@ Under a shooter control regime, the government doesn’t know about or care what
 Here are the basics of how it works:
 
 ### Forming a shooter network and getting licensed
-A shooter network can be any group of people aged 18 or older who get together for the purpose of forming a network — geography and other factors are irrelevant. These individuals form a network and register that network with a central authority, which tracks who belongs to which network and in general oversees this entire regime. (Note: again, this central authority has no information on what guns you own; it’s solely concerned with shooters, not firearms.)
+A shooter network can be any group of five people aged 18 or older who get together for the purpose of forming a network — geography and other factors are irrelevant. These individuals form a network and register that network with a central authority, which tracks who belongs to which network and in general oversees this entire regime. (Note: again, this central authority has no information on what guns you own; it’s solely concerned with shooters, not firearms.)
 
 In order to get a valid shooting license from a network, you must be a member of that network for not less than a year. (Individual networks can extend that time, if they like, in their own bylaws.) Your very first network membership has no waiting period for licensure. If your membership is approved, then licensure is immediate that one time. (This allows brand new shooters, or even folks who are trying to figure out if this is something they want to do, to pick up a gun and begin practicing with it.)
 
@@ -41,6 +41,8 @@ If you’re caught touching a firearm without a license, it’s a felony. This m
 
 If a licensed shooter is convicted of a crime involving a gun, then the network that they were a member of at the time the crime was committed is automatically disbanded, and all of the licenses that network has issued are immediately invalidated. This means that all of the network’s members will need to join a new network and go through a one-year waiting period before they can handle a gun again.
 
+If at any point the number of members in the network drops below 5 for any reason, the network is disbanded and all the licenses it has issued are invalidated.
+
 An individual can belong to only one network at a time, and can belong to no more than four successive shooter networks over the course of his or her lifetime. If you’re on your fourth network and you lose your license (i.e. the network was dissolved, or it voted you out), then you’re done. You can never legally touch a firearm again.
 
 If a shooter is over the age of 18 and is either unlicensed or has a valid licensed that has lapsed more than three years ago (i.e. he or she has had plenty of time to join a new network and get re-licensed), then simple possession (the standard legal definition) of firearms is a felony for that person. (The point here is that if don’t stay on top of your license, then you eventually lose even the right to possess, along with the right to handle/touch a gun.)
@@ -48,16 +50,16 @@ If a shooter is over the age of 18 and is either unlicensed or has a valid licen
 A gun can only be transferred to a licensed shooter. So if your license is lapsed, you can sell your guns, but you can’t legally buy a firearm at a gun shop, gun show, or in a private party transaction.
 
 ### Weapon registration
-Every licensed shooter is required to register all of his/her guns with the network, by serial number. 
+Every licensed shooter is required to register all of his/her guns with the network, by serial number.
 
-There cannot ever be a centralized or network of distributed databased (federated query essentially makes such a thing centralized) of gun registrations that can act as a de facto central gun registry. 
+There cannot ever be a centralized database (or network of distributed databases, because federated query essentially makes such a thing centralized) of gun registrations that can act as a de facto central gun registry.
 
 Rather, by having all weapons registered locally with a shooter network, if a gun is found at a crime scene and local law enforcement can get some indication of ownership (i.e. a fingerprint match or other indication), they can get a warrant to search a specific shooter network’s registry. So law enforcement can only access specific registries with a warrant. Otherwise, this shooter network registries are totally private and inaccessible to the feds.
 
 (This isn’t nearly as effective for law enforcement as a central registry would be, but it’s way better than nothing, and is markedly better than the status quo.)
 
 ### Network effects
-To sum up, this scheme means that shooter network members have skin in the game, and are incentivized to police each other. One member could cause the entire network to lose all legal access to firearms for a year and to use up one of their four possible shooter network memberships. 
+To sum up, this scheme means that shooter network members have skin in the game, and are incentivized to police each other. One member could cause the entire network to lose all legal access to firearms for a year and to use up one of their four possible shooter network memberships.
 
 Under the proposed shooter control regime, over time dysfunctional/criminal social networks will either reform themselves or see their access to firearms steadily dry up, as the pool of eligible shooter network members shrinks and more members of that network lose even the right of simple possession. Meanwhile, gun owners in high-functioning networks will be effectively freed from the burden of compliance with red tape and pointless restrictions that weren’t stopping criminals anyway. The network itself has some annual red tape, but the idea here is that if you can’t bother to pay your fees on time then your network isn’t the kind that we want handing out licenses.
 
