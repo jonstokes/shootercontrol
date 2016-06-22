@@ -19,3 +19,13 @@ Even better would be if it could ultimately contain a set of documents laying ou
 
 I don’t imagine that any laws would be drafted here. Rather, I’m imagining that this repo could produce something like the “term sheet” that precedes an actual contract between two parties. We’d discuss the broad outlines and some specifics, and leave the language for later.
 
+## Contents and Contributing
+
+Right now, there's just a barebones proposal and the start of a FAQ:
+
+- [Proposal](https://github.com/jonstokes/shootercontrol/blob/master/proposal.md)
+- [FAQ](https://github.com/jonstokes/shootercontrol/blob/master/faq.md)
+
+For general feedback on the above, please use the [issues queue](https://github.com/jonstokes/shootercontrol/issues). For edits and/or proposed changes, please submit a PR.
+
+Note that for major proposed changes, let's talk through it in the issues queue first, by creating an issue, and then move to an actual PR once we've fleshed out what we want to do.

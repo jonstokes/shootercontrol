@@ -5,7 +5,7 @@ I think a realistic shooter control proposal should have at least the following 
 1. A focus on the *who*, and not the “what”.
 2. Genuine *compromise*: both sides give up some things.
 3. *Simplicity* and bright lines. The more complex a system is, the easier it is for bad actors to game it.
-4. Consensus from both sides that, thought they hate some aspects of it, it’s *equal to or better* than what we have now.
+4. Consensus from both sides that, though they hate some aspects of it, it’s *equal to or better* than what we have now.
 
 This last bit is particularly important. We can’t hope to solve every scenario and corner case, short of finding a way to eliminate firearms ownership completely. Rather, the ultimate criteria by which we should judge any proposal to reduce gun deaths is: “is this at least equal to or better than what we have now.”
 
