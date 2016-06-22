@@ -3,15 +3,21 @@ A place to start researching. Research is key to developing a non bias, fair and
 
 ```text
 KEY Catagories:
-Research | Possibly Some Opinion | Opinionated | Bias
+Research | Reference | Possibly Some Opinion | Opinionated | Bias | Discussion
 
 Research: The systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions. But not referencing something's or someone's intent, opinions or motives.
 
+Reference: Provide (a book or article) with citations of authorities.
+
 Possibly Some Opinion: Almost entirely research but up to 3 minor points the author may have used working concidered by some to be opinionated. 
 
-Opinionated: Conceitedly assertive and dogmatic in one's opinions.
+Opinionated: Conceitedly assertive and dogmatic in one's opinions or clearly marked as "opinion" by the publisher, i.e. op-eds and editorials in major newspapers.
+
+Advocacy: Public support for or recommendation of a particular cause or policy. (Example NRA) 
 
 Bias: Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.
+
+Discussion: Conversation or debate in a forum of any media (forum threads, reddit threads, HN discussions, chat rooms, comment threads, etc.) 
 
 Example Link Syntax: [ Title of Article ](http://linkToAwesomeArticle.com/information.html)(Research)
 
@@ -120,7 +126,7 @@ Wyoming
   * [Sample Link](#)(Research)
 
 ## Gun Rights opinion article
-  * [Why I “Need” an AR-15](https://medium.com/@jonst0kes/why-i-need-an-ar-15-832e05ae801c#.fu7q9iadx)(Opinionated)
+  * [Why I “Need” an AR-15](https://medium.com/@jonst0kes/why-i-need-an-ar-15-832e05ae801c#.fu7q9iadx)(Advocacy)
 ## Gun Control opinion article
 
 ## Research Tips
