@@ -30,101 +30,148 @@ USA<br/>
 ## Gun Laws (Federal) Link to only government run websites
 
 ## Gun Laws (by state) Link to only State run websites
-Alabama
-  * [Sample Link](#)(Research)
-Alaska 
-  * [Sample Link](#)(Research)
-Arizona 
-  * [Sample Link](#)(Research)
-Arkansas 
-  * [Sample Link](#)(Research)
-California 
-  * [Sample Link](#)(Research)
-Colorado 
-  * [Sample Link](#)(Research)
-Connecticut 
-  * [Sample Link](#)(Research)
-Delaware 
-  * [Sample Link](#)(Research)
-Florida 
-  * [Sample Link](#)(Research)
-Georgia 
-  * [Sample Link](#)(Research)
-Hawaii 
-  * [Sample Link](#)(Research)
-Idaho 
-  * [Sample Link](#)(Research)
-Illinois Indiana 
-  * [Sample Link](#)(Research)
-Iowa 
-  * [Sample Link](#)(Research)
-Kansas 
-  * [Sample Link](#)(Research)
-Kentucky 
-  * [Sample Link](#)(Research)
-Louisiana 
-  * [Sample Link](#)(Research)
-Maine 
-  * [Sample Link](#)(Research)
-Maryland 
-  * [Sample Link](#)(Research)
-Massachusetts 
-  * [Sample Link](#)(Research)
-Michigan 
-  * [Sample Link](#)(Research)
-Minnesota 
-  * [Sample Link](#)(Research)
-Mississippi 
-  * [Sample Link](#)(Research)
-Missouri 
-  * [Sample Link](#)(Research)
-Montana Nebraska 
-  * [Sample Link](#)(Research)
-Nevada 
-  * [Sample Link](#)(Research)
-New Hampshire 
-  * [Sample Link](#)(Research)
-New Jersey 
-  * [Sample Link](#)(Research)
-New Mexico 
-  * [Sample Link](#)(Research)
-New York 
-  * [Sample Link](#)(Research)
-North Carolina 
-  * [Sample Link](#)(Research)
-North Dakota 
-  * [Sample Link](#)(Research)
-Ohio 
-  * [Sample Link](#)(Research)
-Oklahoma 
-  * [Sample Link](#)(Research)
-Oregon 
-  * [Sample Link](#)(Research)
-Pennsylvania Rhode Island 
-  * [Sample Link](#)(Research)
-South Carolina 
-  * [Sample Link](#)(Research)
-South Dakota 
-  * [Sample Link](#)(Research)
-Tennessee 
-  * [Sample Link](#)(Research)
-Texas 
-  * [Sample Link](#)(Research)
-Utah 
-  * [Sample Link](#)(Research)
-Vermont 
-  * [Sample Link](#)(Research)
-Virginia 
-  * [Sample Link](#)(Research)
-Washington 
-  * [Sample Link](#)(Research)
-West Virginia 
-  * [Sample Link](#)(Research)
-Wisconsin 
-  * [Sample Link](#)(Research)
-Wyoming
+
+*Alabama*
   * [Sample Link](#)(Research)
 
+*Alaska*
+  * [Sample Link](#)(Research)
+
+*Arizona*
+  * [Sample Link](#)(Research)
+
+*Arkansas*
+  * [Sample Link](#)(Research)
+
+*California*
+  * [Sample Link](#)(Research)
+
+*Colorado*
+  * [Sample Link](#)(Research)
+
+*Connecticut*
+  * [Sample Link](#)(Research)
+
+*Delaware*
+  * [Sample Link](#)(Research)
+
+*Florida*
+  * [Sample Link](#)(Research)
+
+*Georgia*
+  * [Sample Link](#)(Research)
+
+*Hawaii*
+  * [Sample Link](#)(Research)
+
+*Idaho*
+  * [Sample Link](#)(Research)
+
+*Illinois Indiana*
+  * [Sample Link](#)(Research)
+
+*Iowa*
+  * [Sample Link](#)(Research)
+
+*Kansas*
+  * [Sample Link](#)(Research)
+
+*Kentucky*
+  * [Sample Link](#)(Research)
+
+*Louisiana*
+  * [Sample Link](#)(Research)
+
+*Maine*
+  * [Sample Link](#)(Research)
+
+*Maryland*
+  * [Sample Link](#)(Research)
+
+*Massachusetts*
+  * [Sample Link](#)(Research)
+
+*Michigan*
+  * [Sample Link](#)(Research)
+
+*Minnesota*
+  * [Sample Link](#)(Research)
+
+*Mississippi*
+  * [Sample Link](#)(Research)
+
+*Missouri*
+  * [Sample Link](#)(Research)
+
+*Montana Nebraska*
+  * [Sample Link](#)(Research)
+
+*Nevada*
+  * [Sample Link](#)(Research)
+
+*New Hampshire*
+  * [Sample Link](#)(Research)
+
+*New Jersey*
+  * [Sample Link](#)(Research)
+
+*New Mexico*
+  * [Sample Link](#)(Research)
+
+*New York*
+  * [Sample Link](#)(Research)
+
+*North Carolina*
+  * [Sample Link](#)(Research)
+
+*North Dakota*
+  * [Sample Link](#)(Research)
+
+*Ohio*
+  * [Sample Link](#)(Research)
+
+*Oklahoma*
+  * [Sample Link](#)(Research)
+
+*Oregon*
+  * [Sample Link](#)(Research)
+
+*Pennsylvania Rhode Island*
+  * [Sample Link](#)(Research)
+
+*South Carolina*
+  * [Sample Link](#)(Research)
+
+*South Dakota*
+  * [Sample Link](#)(Research)
+
+*Tennessee*
+  * [Sample Link](#)(Research)
+
+*Texas*
+  * [Sample Link](#)(Research)
+
+*Utah*
+  * [Sample Link](#)(Research)
+
+*Vermont*
+  * [Sample Link](#)(Research)
+
+*Virginia*
+  * [Sample Link](#)(Research)
+
+*Washington*
+  * [Sample Link](#)(Research)
+
+*West Virginia*
+  * [Sample Link](#)(Research)
+
+*Wisconsin*
+  * [Sample Link](#)(Research)
+
+*Wyoming*
+  * [Sample Link](#)(Research)
+  
 ## Gun Rights opinion article
   * [Why I “Need” an AR-15](https://medium.com/@jonst0kes/why-i-need-an-ar-15-832e05ae801c#.fu7q9iadx)(Advocacy)
 ## Gun Control opinion article
