@@ -43,7 +43,7 @@ If a licensed shooter is convicted of a crime involving a gun, then the network 
 
 If at any point the number of members in the network drops below 5 for any reason, the network is disbanded and all the licenses it has issued are invalidated.
 
-An individual can belong to only one network at a time, and can belong to no more than four successive shooter networks over the course of his or her lifetime. If you’re on your fourth network and you lose your license (i.e. the network was dissolved, or it voted you out), then you’re done. You can never legally touch a firearm again.
+An individual can belong to only one standard shooter network at a time, and can belong to no more than four successive standard shooter networks over the course of his or her lifetime. If you’re on your fourth network and you lose your license (i.e. the network was dissolved, or it voted you out), then you’re done. You can never legally touch a firearm again.
 
 If a shooter is over the age of 18 and is either unlicensed or has a valid licensed that has lapsed more than three years ago (i.e. he or she has had plenty of time to join a new network and get re-licensed), then simple possession (the standard legal definition) of firearms is a felony for that person. (The point here is that if don’t stay on top of your license, then you eventually lose even the right to possess, along with the right to handle/touch a gun.)
 
@@ -98,7 +98,10 @@ All police, active duty military, and other professionals have the same rules as
 - Reservists and National Guard are automatically licensed during drill periods, otherwise they need a network membership.
 
 ### Concealed carry
-Concealed carry would still be handled on a state-by-state basis. It would be nice to get national reciprocity as part of this, though, if we can swing it. But ultimately I think concealed carry issues have to be orthogonal to the shooter network concept.
+Concealed carry would be licensed by specialized shooters networks, and any laws disrupting reciprocity would be preempted at the federal level. The network should require additional training before issuing a CCW license. 
+
+### Specialized Shooter Networks
+Specialized shooter networks may exist for purposes not enumerated in this document. Joining or leaving them does not count against your lifetime limit, but any rights conveyed by their licensure are forfeit upon leaving the network. Specialized network should not be disbanded immediately if members are convicted of a crime, but only via judicial review, specifically as to whether or not the crime is the result of negligence on the part of the network. Specialized networks will work more like an endorsement on a pilot's license than as a body carrying legal responsibility for the actions of it's members, providing checks for special cases, like CCW or automatic weapons. 
 
 ## Problems and obstacles
 The main obstacle to this is on the pro-gun side is that basic idea of licensing shooters is probably going to run afoul of 2A by many interpretations. After all, we don’t license people to speak or to exercise any of their other constitutional rights. (There may be some wiggle room, though, in that ownership of firearms isn’t prohibited to unlicensed shooters; just their use.)
